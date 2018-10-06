@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511726573041",
+    "firebase_url": "https://chatbox-7aef3.firebaseio.com",
+    "project_id": "chatbox-7aef3",
+    "storage_bucket": "chatbox-7aef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511726573041:android:c4c985bdc712c770",
+        "android_client_info": {
+          "package_name": "com.example.bilalidrees.chat_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511726573041-gp9ggkkh62lq2daonh77heh30sj7jd92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bilalidrees.chat_box",
+            "certificate_hash": "126bac1598607ff62938707498d3db1031045c9c"
+          }
+        },
+        {
+          "client_id": "511726573041-kt69vp1fsppr9b3n3vn4mi1v3cf7jlt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4QzkgcciNZDckjl4ArLwC0yhzc6sMXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511726573041-kt69vp1fsppr9b3n3vn4mi1v3cf7jlt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
